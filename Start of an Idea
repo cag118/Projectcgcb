@@ -1,0 +1,13 @@
+print("Welcome to the simple AI Tag Tool")
+print("----------------------------------------")
+
+
+#this would would used to upload a file/// will need changed, just getting a skeleton down.
+file = input("Upload file here:")
+print("Processing Image")
+type(jpeg)
+
+reponse = input(""" \n Select Scan tpye:
+        1.) Spoiler
+        2.) NSFW
+        3.) SFW \n """)
